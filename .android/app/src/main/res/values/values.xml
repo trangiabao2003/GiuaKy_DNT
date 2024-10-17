@@ -1,0 +1,24 @@
+<resources>
+
+    <!-- Google API key -->
+    <string name="google_api_key">AIzaSyCGIKCYJb3HLh2PwKMkphB3oHNh94XSFso</string>
+    
+    <!-- Firebase project URL -->
+    <string name="firebase_database_url">https://giuakydnt-39414.firebaseio.com</string>
+
+    <!-- Google App ID -->
+    <string name="google_app_id">1:358646665421:android:0d66a922d10e0abcb61984</string>
+
+    <!-- Project Number / Sender ID -->
+    <string name="gcm_defaultSenderId">358646665421</string>
+
+    <!-- Firebase Project ID -->
+    <string name="project_id">giuakydnt-39414</string>
+
+    <!-- Firebase Web Client ID -->
+    <string name="default_web_client_id">[WEB_CLIENT_ID]</string> <!-- Không có trong JSON, cần thiết lập riêng -->
+
+    <!-- Firebase Storage Bucket -->
+    <string name="google_storage_bucket">giuakydnt-39414.appspot.com</string>
+
+</resources>

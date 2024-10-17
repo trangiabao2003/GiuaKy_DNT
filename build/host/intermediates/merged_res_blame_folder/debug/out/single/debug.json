@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.giuaky_dnt.host.app-merged_res-40:/drawable_launch_background.xml.flat",
+        "source": "com.example.giuaky_dnt.host.app-main-31:/drawable/launch_background.xml"
+    },
+    {
+        "merged": "com.example.giuaky_dnt.host.app-merged_res-40:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.giuaky_dnt.host.app-main-31:/mipmap-hdpi/ic_launcher.png"
+    }
+]
